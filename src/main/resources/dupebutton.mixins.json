@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.example.dupebutton.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ClientCommonPacketListenerImplMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
